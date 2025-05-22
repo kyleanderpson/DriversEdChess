@@ -36,7 +36,9 @@
   "name":"DriversEdChess",
   "resources":[
     {"id":{"name":"obj_kyle1","path":"objects/obj_kyle1/obj_kyle1.yy",},},
+    {"id":{"name":"oj_caleb1","path":"objects/oj_caleb1/oj_caleb1.yy",},},
     {"id":{"name":"rm_SNES_dimensions","path":"rooms/rm_SNES_dimensions/rm_SNES_dimensions.yy",},},
+    {"id":{"name":"spr_caleb1","path":"sprites/spr_caleb1/spr_caleb1.yy",},},
     {"id":{"name":"spr_kyle1","path":"sprites/spr_kyle1/spr_kyle1.yy",},},
   ],
   "resourceType":"GMProject",
