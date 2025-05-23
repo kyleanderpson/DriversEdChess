@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"oj_caleb1",
+  "%Name":"obj_white_knight",
   "eventList":[],
   "managed":true,
-  "name":"oj_caleb1",
+  "name":"obj_white_knight",
   "overriddenProperties":[],
   "parent":{
-    "name":"test",
-    "path":"folders/Objects/test.yy",
+    "name":"white pieces",
+    "path":"folders/Objects/white pieces.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_caleb1",
-    "path":"sprites/spr_caleb1/spr_caleb1.yy",
+    "name":"spr_white_knight",
+    "path":"sprites/spr_white_knight/spr_white_knight.yy",
   },
   "spriteMaskId":null,
   "visible":true,

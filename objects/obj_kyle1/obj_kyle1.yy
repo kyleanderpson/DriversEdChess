@@ -6,8 +6,8 @@
   "name":"obj_kyle1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"test",
+    "path":"folders/Objects/test.yy",
   },
   "parentObjectId":null,
   "persistent":false,

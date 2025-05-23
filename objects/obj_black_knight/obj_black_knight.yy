@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"oj_caleb1",
+  "%Name":"obj_black_knight",
   "eventList":[],
   "managed":true,
-  "name":"oj_caleb1",
+  "name":"obj_black_knight",
   "overriddenProperties":[],
   "parent":{
-    "name":"test",
-    "path":"folders/Objects/test.yy",
+    "name":"black pieces",
+    "path":"folders/Objects/black pieces.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_caleb1",
-    "path":"sprites/spr_caleb1/spr_caleb1.yy",
+    "name":"spr_black_knight",
+    "path":"sprites/spr_black_knight/spr_black_knight.yy",
   },
   "spriteMaskId":null,
   "visible":true,
