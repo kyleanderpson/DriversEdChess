@@ -1,15 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_caleb1",
+  "%Name":"kyle_obj_pieces",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_caleb1",
+  "name":"kyle_obj_pieces",
   "overriddenProperties":[],
   "parent":{
-    "name":"test",
-    "path":"folders/Objects/test.yy",
+    "name":"kyle_pieces",
+    "path":"folders/Objects/kyle_pieces.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,10 +32,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_caleb1",
-    "path":"sprites/spr_caleb1/spr_caleb1.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

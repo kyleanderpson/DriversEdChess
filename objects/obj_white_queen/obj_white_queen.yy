@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_caleb1",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_white_queen",
+  "eventList":[],
   "managed":true,
-  "name":"obj_caleb1",
+  "name":"obj_white_queen",
   "overriddenProperties":[],
   "parent":{
-    "name":"test",
-    "path":"folders/Objects/test.yy",
+    "name":"white pieces",
+    "path":"folders/Objects/white pieces.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_caleb1",
-    "path":"sprites/spr_caleb1/spr_caleb1.yy",
+    "name":"spr_white_queen",
+    "path":"sprites/spr_white_queen/spr_white_queen.yy",
   },
   "spriteMaskId":null,
   "visible":true,
