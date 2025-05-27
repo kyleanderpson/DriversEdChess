@@ -71,7 +71,7 @@
     {"id":{"name":"obj_white_queen","path":"objects/obj_white_queen/obj_white_queen.yy",},},
     {"id":{"name":"obj_white_rook","path":"objects/obj_white_rook/obj_white_rook.yy",},},
     {"id":{"name":"obj_white_square","path":"objects/obj_white_square/obj_white_square.yy",},},
-    {"id":{"name":"oj_caleb1","path":"objects/oj_caleb1/oj_caleb1.yy",},},
+    {"id":{"name":"obj_caleb1","path":"objects/obj_caleb1/obj_caleb1.yy",},},
     {"id":{"name":"kyle_rm_chessBoard_72x72","path":"rooms/kyle_rm_chessBoard_72x72/kyle_rm_chessBoard_72x72.yy",},},
     {"id":{"name":"rm_chessBoard_32x32","path":"rooms/rm_chessBoard_32x32/rm_chessBoard_32x32.yy",},},
     {"id":{"name":"rm_chessBoard_72x72","path":"rooms/rm_chessBoard_72x72/rm_chessBoard_72x72.yy",},},
