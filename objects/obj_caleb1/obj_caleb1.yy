@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"oj_caleb1",
-  "eventList":[],
+  "%Name":"obj_caleb1",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"oj_caleb1",
+  "name":"obj_caleb1",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
