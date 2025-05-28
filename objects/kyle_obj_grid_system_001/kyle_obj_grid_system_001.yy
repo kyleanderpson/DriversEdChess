@@ -9,8 +9,8 @@
   "name":"kyle_obj_grid_system_001",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"KYLE",
+    "path":"folders/Objects/KYLE.yy",
   },
   "parentObjectId":null,
   "persistent":false,

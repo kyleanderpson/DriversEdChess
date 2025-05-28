@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"kyle_pieces",
-    "path":"folders/Objects/kyle_pieces.yy",
+    "path":"folders/Objects/KYLE/kyle_pieces.yy",
   },
   "parentObjectId":{
     "name":"kyle_obj_pieces",
